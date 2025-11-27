@@ -22,10 +22,6 @@ It is ideal for:
 - AI-powered medical dashboards  
 
 ---
-## 🎥 Demo Video (Google Drive)
-Adjusting the resolution is recommended for the best experience.
-
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://drive.google.com/file/d/1G9HuIK_MubR1BuD9o9616kb-bD7sOpE5/view?usp=sharing)
 
 ## 🚀 Features
 
