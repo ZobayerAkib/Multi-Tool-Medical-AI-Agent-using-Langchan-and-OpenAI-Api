@@ -124,8 +124,8 @@ Open API docs:
 ### 📡 API Usage
 ```
 Endpoint
-POST /ask
 
+POST /ask
 Request
 {
   "question": "How many heart disease patients are above age 50?",
