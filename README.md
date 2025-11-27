@@ -98,12 +98,12 @@ source venv/bin/activate   # Mac/Linux
 ```bash
 pip install -r requirements.txt
 ```
-###🔑 Environment Variables
-  -1. GitHub OpenAI Model Token
+### 🔑 Environment Variables
+  - 1. GitHub OpenAI Model Token
   ```bash
     export GITHUB_TOKEN="your_github_token"
   ```
-  -2. Tavily Search Key (for web search)
+  - 2. Tavily Search Key (for web search)
   ```bash
     export TAVILY_API_KEY="your_tavily_api_key"
   ```
@@ -111,7 +111,7 @@ pip install -r requirements.txt
   ```bash
     export SERPAPI_API_KEY="your_serpapi_key"
   ```
-###▶️ Running the Server
+### ▶️ Running the Server
 
 Start FastAPI:
 
